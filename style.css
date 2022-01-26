@@ -1,0 +1,16 @@
+html{
+        background: #17a2b840;
+    }
+    
+    a{
+        color: rgb(39, 39, 39);
+    }
+
+    a:hover {
+    text-decoration: none;
+    color:grey
+    }
+
+    a:active {
+    text-decoration: none;
+    }
